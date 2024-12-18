@@ -6,6 +6,8 @@ My technical and leadership skills allow me to build and scale both technical sy
 
 -----
 
+
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=eidosaf&show_icons=true&theme=dark" alt="GitHub Activity">
 </div>
