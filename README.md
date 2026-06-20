@@ -6,6 +6,8 @@ I build and scale both technical systems and the teams behind them, with a stron
 
 -----
 
+
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=eidosaf&show_icons=true&theme=dark" alt="GitHub Activity">
 </div>
